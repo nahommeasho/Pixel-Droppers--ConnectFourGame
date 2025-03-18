@@ -1,0 +1,14 @@
+C:\Users\imeiq\source\repos\Final Project\ConnectFourGame\bin\Debug\net8.0\ConnectFourGame.exe
+C:\Users\imeiq\source\repos\Final Project\ConnectFourGame\bin\Debug\net8.0\ConnectFourGame.deps.json
+C:\Users\imeiq\source\repos\Final Project\ConnectFourGame\bin\Debug\net8.0\ConnectFourGame.runtimeconfig.json
+C:\Users\imeiq\source\repos\Final Project\ConnectFourGame\bin\Debug\net8.0\ConnectFourGame.dll
+C:\Users\imeiq\source\repos\Final Project\ConnectFourGame\bin\Debug\net8.0\ConnectFourGame.pdb
+C:\Users\imeiq\source\repos\Final Project\ConnectFourGame\obj\Debug\net8.0\ConnectFourGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\imeiq\source\repos\Final Project\ConnectFourGame\obj\Debug\net8.0\ConnectFourGame.AssemblyInfoInputs.cache
+C:\Users\imeiq\source\repos\Final Project\ConnectFourGame\obj\Debug\net8.0\ConnectFourGame.AssemblyInfo.cs
+C:\Users\imeiq\source\repos\Final Project\ConnectFourGame\obj\Debug\net8.0\ConnectFourGame.csproj.CoreCompileInputs.cache
+C:\Users\imeiq\source\repos\Final Project\ConnectFourGame\obj\Debug\net8.0\ConnectFourGame.dll
+C:\Users\imeiq\source\repos\Final Project\ConnectFourGame\obj\Debug\net8.0\refint\ConnectFourGame.dll
+C:\Users\imeiq\source\repos\Final Project\ConnectFourGame\obj\Debug\net8.0\ConnectFourGame.pdb
+C:\Users\imeiq\source\repos\Final Project\ConnectFourGame\obj\Debug\net8.0\ConnectFourGame.genruntimeconfig.cache
+C:\Users\imeiq\source\repos\Final Project\ConnectFourGame\obj\Debug\net8.0\ref\ConnectFourGame.dll
