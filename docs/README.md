@@ -14,7 +14,7 @@ Turn-Based Gameplay with Input Handling
 Win & Draw Detection (Horizontal, Vertical, Diagonal)
 Modular OOP Design (Encapsulation, Inheritance, Polymorphism) 
 Robust Error Handling (Input Validation, Full Column Prevention)
-Unit Tests using NUnit** (Testing Core Game Logic)
+Unit Tests using NUnit (Testing Core Game Logic)
 
 Project Setup
 Clone Repository
